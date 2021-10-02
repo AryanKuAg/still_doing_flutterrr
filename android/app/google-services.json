@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369534003744",
+    "project_id": "still-doing-flutter",
+    "storage_bucket": "still-doing-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369534003744:android:f3210abf9458d439546a45",
+        "android_client_info": {
+          "package_name": "xyz.funfury.still_doing_flutterrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369534003744-vusmjlaruh8cn8ttjkd363kga9i2ck2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnhJurhl4dptfOAPfEmFoROchS9GKydhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369534003744-vusmjlaruh8cn8ttjkd363kga9i2ck2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
